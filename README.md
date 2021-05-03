@@ -1,5 +1,7 @@
 # Adpacker integration guide.
 
+
+
 This guide for integrating with Adpacker using OpenRTB 2.3.  
 (Should there be missing fields or requirements, please default requirements to the spec itself.)
 
